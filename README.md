@@ -38,3 +38,7 @@ The trained model is converted to TensorFlow.js Layers format for use in a web a
 ## Accuracy
 
 The model has an accuracy of 99.26999807357788 on the test set.
+
+## Webpage
+
+Play around the model [here](https://rasik-nep.github.io/Handwritten-Digit-Recognition-Web-App/).
